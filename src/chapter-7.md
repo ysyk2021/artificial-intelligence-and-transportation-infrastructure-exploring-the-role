@@ -1,5 +1,4 @@
-Chapter 6: The Future of AI in Smart Cities
-===========================================
+
 
 As AI continues to evolve and mature, its potential for transforming transportation infrastructure in smart cities is only increasing. In this chapter, we will explore some of the emerging technologies, trends, policy frameworks, and societal impacts that are shaping the future of AI in smart cities.
 

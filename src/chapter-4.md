@@ -1,5 +1,4 @@
-Chapter 3: Applications of AI in Smart Transportation Infrastructure
-====================================================================
+
 
 In this chapter, we will explore some of the key applications of AI in smart transportation infrastructure. From optimizing traffic flow to enhancing public transportation systems, AI has the potential to revolutionize the way we move people and goods within smart cities.
 

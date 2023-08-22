@@ -1,5 +1,4 @@
-Advanced Public Transportation Systems
-============================================================================================================
+
 
 Public transportation is a critical component of modern urban environments, and intelligent technologies offer significant potential for enhancing the efficiency and quality of these systems through advanced public transportation systems (APTS). Artificial intelligence (AI) technologies can be used to optimize various aspects of APTS, including route planning, passenger flow management, and automated vehicle control.
 

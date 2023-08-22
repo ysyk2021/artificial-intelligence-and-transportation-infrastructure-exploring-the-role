@@ -1,5 +1,4 @@
-Traffic Management with AI
-=========================================================================================
+
 
 As the demand for efficient transportation systems continues to rise, cities are turning to artificial intelligence (AI) to optimize traffic flow and reduce congestion. In this chapter, we will explore the foundations of AI in transportation infrastructure, with a specific focus on traffic management.
 

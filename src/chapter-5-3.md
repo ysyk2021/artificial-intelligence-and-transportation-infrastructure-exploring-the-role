@@ -1,5 +1,4 @@
-Infrastructure Investment and Implementation
-===========================================================================================================
+
 
 Artificial intelligence (AI) has the potential to transform the way we design and manage transportation infrastructure in smart cities. However, the deployment of AI-powered infrastructure poses several challenges and opportunities related to infrastructure investment and implementation.
 

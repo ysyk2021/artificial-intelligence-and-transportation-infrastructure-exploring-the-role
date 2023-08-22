@@ -1,5 +1,4 @@
-Energy Management and Efficiency
-======================================================================================================
+
 
 Energy management and efficiency are critical considerations in the design and operation of smart transportation infrastructure. Effective management of energy resources can reduce costs, increase sustainability, and enhance the overall quality of life in urban environments. Artificial intelligence (AI) technologies have the potential to significantly enhance energy management and efficiency in smart transportation infrastructure, through a range of applications.
 

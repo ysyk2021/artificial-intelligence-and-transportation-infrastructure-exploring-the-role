@@ -1,4 +1,4 @@
-# Introduction
+
 
 As cities become more connected and technology-dependent, the role of artificial intelligence (AI) in transportation infrastructure is becoming increasingly important. In this book, "Artificial Intelligence and Transportation Infrastructure: Exploring the Role of Intelligent Technologies in Designing Smart Cities," we'll examine how AI technologies can be leveraged to improve transportation infrastructure and design smarter cities.
 

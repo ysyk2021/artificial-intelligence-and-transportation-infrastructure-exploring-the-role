@@ -1,5 +1,4 @@
-Definition and Overview of Artificial Intelligence (AI)
-=====================================================================
+
 
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform many aspects of our daily lives. It involves the development and use of intelligent computer systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision making, and language translation.
 

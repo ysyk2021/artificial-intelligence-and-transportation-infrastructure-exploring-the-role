@@ -1,5 +1,4 @@
-Smart Transportation Infrastructure
-==================================================================================================
+
 
 Artificial Intelligence (AI) has revolutionized many industries, and the transportation sector is no exception. The use of AI in transportation infrastructure can lead to more efficient, safer, and cost-effective systems, often referred to as smart transportation infrastructure. In this chapter, we will explore the foundations of AI in transportation infrastructure and how they enable smart transportation infrastructure.
 

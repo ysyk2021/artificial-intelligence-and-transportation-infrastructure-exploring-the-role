@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored the role of AI in transportation infrastructure and its potential applications in designing smart cities. We have seen how AI can optimize traffic flow, enhance safety, and improve sustainability, among other benefits.
 

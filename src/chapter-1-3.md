@@ -1,5 +1,4 @@
-The Need for Intelligent Technologies in Smart Cities
-===================================================================
+
 
 In recent years, there has been a growing interest globally in creating smart cities - cities that leverage technology to improve the lives of their residents, enhance sustainability, and increase economic growth. One crucial element of smart cities is transportation infrastructure, which plays a key role in shaping the livability of urban spaces.
 

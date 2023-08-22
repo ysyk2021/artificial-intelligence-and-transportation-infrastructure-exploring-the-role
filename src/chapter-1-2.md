@@ -1,5 +1,4 @@
-The Importance of Transportation Infrastructure
-=============================================================
+
 
 Improved transportation infrastructure is essential for the development of smart cities, as it is the backbone that supports economic growth and social development. It connects people, goods, and services, leading to increased accessibility, efficiency, and productivity. However, traditional transportation infrastructure is facing challenges such as congestion, inefficiency, and environmental problems.
 

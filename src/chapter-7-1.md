@@ -1,5 +1,4 @@
-Emerging Technologies and Trends
-=============================================================================
+
 
 Artificial intelligence (AI) is rapidly evolving and the future of AI in smart cities promises to bring even more advanced technologies and trends. In this chapter, we will discuss some emerging technologies and trends that are likely to shape the future of AI in smart cities.
 

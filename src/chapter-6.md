@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of AI in Smart Transportation Infrastructure
-====================================================================
+
 
 In this chapter, we will examine some real-world examples of the application of AI in smart transportation infrastructure. These case studies provide valuable insights into the challenges and opportunities associated with implementing AI in transportation systems, as well as the potential benefits for smart cities.
 

@@ -1,5 +1,4 @@
-Chapter 1: Foundations of AI in Transportation Infrastructure
-=============================================================
+
 
 Artificial intelligence (AI) is playing an increasingly important role in the design and operation of transportation infrastructure in smart cities. In this chapter, we will explore the foundations of AI in transportation infrastructure, including its various techniques and applications.
 
