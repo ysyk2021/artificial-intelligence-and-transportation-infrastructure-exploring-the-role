@@ -1,5 +1,4 @@
 
-
 Helsinki, the capital city of Finland, has been at the forefront of developing intelligent transportation infrastructure to improve mobility and enhance the overall livability of the city. The Helsinki Smart City initiative is a comprehensive program that leverages AI and other advanced technologies to create a more efficient, sustainable, and safe transportation system.
 
 Smart Traffic Management

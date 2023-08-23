@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) continues to advance, its potential impact on smart cities is becoming increasingly clear. From improving transportation infrastructure to enhancing public safety, AI technologies have the potential to transform urban life in a range of ways. However, the widespread adoption of AI in smart cities also raises a number of social and environmental challenges that must be addressed.
 
 Overview of AI in Smart Cities

@@ -1,5 +1,4 @@
 
-
 Singapore is among the world's leading cities in implementing smart transportation infrastructure. The city-state has been using AI and other advanced technologies to optimize traffic flow, reduce congestion, and improve overall transportation efficiency. In this chapter, we will explore Singapore's smart transportation system and how it leverages AI to create a seamless transportation experience for its citizens.
 
 Understanding Singapore's Smart Transportation System

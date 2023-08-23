@@ -1,5 +1,4 @@
 
-
 Autonomous vehicle technology is one of the most promising applications of AI in transportation infrastructure. In recent years, significant progress has been made in developing self-driving cars and other autonomous vehicles, which offer numerous benefits over traditional human-driven vehicles. In this chapter, we will explore the foundations of autonomous vehicle technology and how it is shaping the future of transportation infrastructure.
 
 Understanding Autonomous Vehicle Technology

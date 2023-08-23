@@ -1,5 +1,4 @@
 
-
 As cities look for ways to improve transportation infrastructure and mobility, artificial intelligence (AI) is emerging as a key technology with significant potential. In this chapter, we will explore a case study of how Amsterdam is using AI to develop smart transportation infrastructure.
 
 Background

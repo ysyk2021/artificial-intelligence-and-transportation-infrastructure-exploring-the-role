@@ -1,5 +1,4 @@
 
-
 As we have seen in the previous chapters, AI has the potential to transform transportation infrastructure and enhance the efficiency, safety, and sustainability of transportation systems. However, the widespread adoption of AI in smart cities also comes with its own set of challenges. In this chapter, we will explore some of the ethical, social, and technical challenges associated with implementing AI in transportation infrastructure.
 
 Ethical and Social Implications of AI

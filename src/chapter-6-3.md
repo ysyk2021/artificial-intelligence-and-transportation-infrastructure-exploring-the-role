@@ -1,8 +1,5 @@
 
-
 San Francisco has emerged as a leader in the development and testing of autonomous vehicle technologies. In this chapter, we will explore San Francisco's autonomous vehicle testing program as a case study of AI in smart transportation infrastructure.
-
-
 
 Autonomous vehicles have the potential to revolutionize transportation systems in smart cities by reducing traffic congestion, improving safety, and increasing efficiency. San Francisco has been at the forefront of the autonomous vehicle revolution, with a number of companies testing their self-driving cars on the city's streets.
 

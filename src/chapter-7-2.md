@@ -1,5 +1,4 @@
 
-
 As smart cities continue to evolve, it's important to consider the policy and regulatory frameworks necessary to ensure the responsible use of AI technologies. In this chapter, we'll discuss the future of AI in smart cities and the policies and regulations needed to support its growth.
 
 Ensuring Data Privacy and Security

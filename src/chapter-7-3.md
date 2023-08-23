@@ -1,5 +1,4 @@
 
-
 As we have seen throughout this book, artificial intelligence (AI) has the potential to transform transportation infrastructure in smart cities, improving efficiency, safety, and sustainability. However, realizing the full potential of AI will require collaboration and partnerships among a range of stakeholders, including governments, industry, and academic institutions.
 
 Collaboration among Governments

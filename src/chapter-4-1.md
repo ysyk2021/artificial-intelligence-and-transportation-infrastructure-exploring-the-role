@@ -1,5 +1,4 @@
 
-
 As urban populations continue to grow, transportation infrastructure plays an increasingly important role in shaping the quality of life for residents. In recent years, rapid advancements in artificial intelligence (AI) and other intelligent technologies have opened up new possibilities for designing smart cities that are more efficient, sustainable, and livable. One important application of AI in smart transportation infrastructure is the development of intelligent traffic management systems.
 
 Overview of Intelligent Traffic Management Systems

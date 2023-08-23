@@ -1,5 +1,4 @@
 
-
 Autonomous vehicles (AVs) are a transformative technology with the potential to revolutionize transportation infrastructure in smart cities. By leveraging artificial intelligence (AI) and other intelligent technologies, AVs can enhance safety, reduce congestion, and promote sustainability. However, effective integration of AVs into transportation infrastructure will require careful planning and collaboration among a range of stakeholders.
 
 Overview of Autonomous Vehicle Integration

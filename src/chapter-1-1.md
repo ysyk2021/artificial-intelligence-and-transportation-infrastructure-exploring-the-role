@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform many aspects of our daily lives. It involves the development and use of intelligent computer systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision making, and language translation.
 
 AI can be broadly classified into two categories: narrow or weak AI and general or strong AI. Narrow AI refers to AI systems designed to perform specific tasks, such as speech recognition or object detection. In contrast, general AI systems are designed to perform any intellectual task that a human can do.
