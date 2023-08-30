@@ -8,3 +8,7 @@ We'll also delve into the challenges of integrating AI technologies into transpo
 Whether you're a transportation professional, urban planner, policy maker, or simply interested in the future of smart cities, this book is your comprehensive guide to exploring the role of intelligent technologies in designing smart cities. By examining the latest advancements in AI technology and transportation infrastructure, we'll gain a better understanding of how these two fields can work together to create safer, more sustainable, and more efficient transportation systems in our cities.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
